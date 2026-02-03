@@ -190,7 +190,7 @@ Building scalable recruitment automation features for real-world usage.
 ---
 
 <p align="center">
-  <i>"I build things that people actually use."</i>
+  <i>"Figuring stuff out !!"</i>
 </p>
 
 <p align="center">
