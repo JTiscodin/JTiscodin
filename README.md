@@ -1,27 +1,198 @@
-# 💫 About Me:
-Hi, I am Jatin Tilwani, a full stack developer from India.<br><br>I love building and learning things about the Web.
+<h1 align="center">Hi, I'm Jatin Tilwani 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Systems+Engineer;Building+Production-Grade+LLM+Apps" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin-tilwani-470352247) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JTisConfused) 
+<p align="center">
+  <b>Final-year B.Tech CS student • Software Engineer Intern @ TheHireHub.ai</b><br/>
+  Full-stack developer transitioning into AI systems & real-world LLM integrations
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JTiscodin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JTiscodin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JTiscodin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JTiscodin&theme=dark&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JTiscodin&style=flat-square&color=0e75b6" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-brightgreen?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Building-blue?style=flat-square" alt="Status" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JTiscodin&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 💼 Software Engineer Intern at **TheHireHub.ai**, building production-grade features used by recruiters
+- 🎯 Strong full-stack foundation across **frontend, backend, databases, and real-time systems**
+- 🤖 Transitioning into **AI engineering** by integrating LLMs into real workflows (streaming APIs, automation, agents)
+- 🏆 Hackathon builder — I ship usable products, not just demos
+
+---
+
+## 🔭 Currently Working On
+
+- Building **LLM-powered backend systems** with streaming APIs
+- Designing scalable architectures for AI-integrated applications
+- Experimenting with **advanced backend patterns** (caching strategies, distributed systems)
+- Creating production-ready **AI agents** with real-time data processing
+
+## 📚 Learning & Exploring
+
+- **AI/ML Engineering**: Prompt engineering, RAG systems, vector databases
+- **Advanced Backend**: Microservices, message queues, performance optimization
+- **LLM Integration Patterns**: Function calling, streaming responses, context management
+- **System Design**: Scalable architectures for AI-first applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Core
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+### Frontend Development
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="WebSockets" src="https://img.shields.io/badge/-WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+</p>
+
+### Backend & Databases
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<details open>
+<summary><b>🎨 Scribble — Real-time Multiplayer Drawing Game</b></summary>
+<br>
+
+**Tech Stack:** WebSockets • Node.js • Express • TypeScript • Canvas API
+
+A multiplayer drawing game with real-time synchronization supporting concurrent rooms and chat functionality.
+
+**Key Features:**
+- ⚡ Sub-100ms drawing synchronization using optimized WebSocket messages
+- 🏗️ Room-based architecture with automatic cleanup and state management
+- 🔒 Type-safe contracts between client and server
+- 💬 Real-time chat with modular service design
+
+**Impact:** Successfully handles 50+ concurrent users per room without performance degradation
+
+🔗 **[View Repository →](https://github.com/JTiscodin/scribble)**
+
+</details>
+
+<details>
+<summary><b>🎮 BattleBox — Minecraft Minigame Plugin</b></summary>
+<br>
+
+**Tech Stack:** Java 21 • Maven • Spigot API • Event-Driven Architecture
+
+A competitive Minecraft minigame plugin built with extensibility and performance in mind.
+
+**Key Features:**
+- 🎯 Event-driven architecture with service-based design patterns
+- ⚙️ Modular system with managers, services, and command handlers
+- ⏱️ Handles 120+ timed events per match with precision
+- 🔧 Built for extensibility and easy feature additions
+
+**Technical Highlights:** Clean separation of concerns, dependency injection patterns, efficient event handling
+
+🔗 **[View Repository →](https://github.com/JTiscodin/battlebox)**
+
+</details>
+
+<details>
+<summary><b>🏢 TheHireHub.ai — Production Internship Work</b></summary>
+<br>
+
+**Tech Stack:** Next.js • FastAPI • OpenAI GPT • PostgreSQL • Streaming APIs
+
+Building scalable recruitment automation features for real-world usage.
+
+**Key Contributions:**
+- 🚀 Built responsive frontend handling 500+ candidate records with optimized rendering
+- 🤖 Integrated GPT streaming APIs for real-time AI responses in FastAPI backend
+- ⚡ Reduced API calls by 30% through intelligent caching strategies
+- 🎨 Designed intuitive UI/UX for recruiter workflows
+
+**Impact:** Features actively used by recruitment teams in production
+
+🔒 *Private repository (Internship project)*
+
+</details>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JTiscodin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTiscodin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=JTiscodin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JTiscodin&theme=tokyonight" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🏆 Achievements & Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JTiscodin&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+- 🥈 **2nd Place** at Lumos Innovate-A-Thon (100+ teams competing)
+- 🎓 **Dean's List** multiple semesters (Top 5%, GPA 9.0+)
+- 📜 **NPTEL Elite Certifications** in Data Structures & Algorithms, Java Programming
+- 💡 **Hackathon Veteran** with multiple successful project deployments
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:jatintilwani500@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/jatin-tilwani-470352247/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/JTiscodin">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"I build things that people actually use."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</p>
